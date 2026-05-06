@@ -1,0 +1,4 @@
+username,password,email,failed_login_attemps,logged_in,role
+root,rootMDP,kji@l.com,0,False,administrateur
+Lionel,Kio,ghjuii@l.com,0,False,administrateur
+Lio,1234,uituh@l.com,0,False,administrateur
